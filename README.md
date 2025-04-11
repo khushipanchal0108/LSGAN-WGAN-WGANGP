@@ -73,5 +73,15 @@ If you use this dataset, please cite the following works:
 - All models obtained the same FID score, suggesting that their outputs were similarly close to the distribution of real images.
 
 ---
+##Tensorboard Results
 
-Let me know if you'd like to save this as a `.md` file or need help adding plots or training visuals to the report.
+![Screenshot 2025-04-11 183830](https://github.com/user-attachments/assets/b7fc4629-5b4b-4de6-b60b-734bcd2d5cc6)
+
+![Screenshot 2025-04-11 183900](https://github.com/user-attachments/assets/a2804ebb-3009-45b7-83b5-8ec650996299)
+
+![Screenshot 2025-04-11 184036 - Copy](https://github.com/user-attachments/assets/e5e87324-bcff-4932-8ee3-77dc9b86a107)
+
+![Screenshot 2025-04-11 184102](https://github.com/user-attachments/assets/ea1b2a64-f8cd-4d82-9116-f04d17ec23ac)
+
+![Screenshot 2025-04-11 184119](https://github.com/user-attachments/assets/0cea0905-4650-4550-9d3d-d4b36abbe289)
+
